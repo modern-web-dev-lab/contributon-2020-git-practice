@@ -1,5 +1,4 @@
 Juyeong Lee
-<<<<<<< HEAD
 YeEun Lee!
 오리
 Peter J
@@ -10,4 +9,5 @@ inseok
 Apollonio Sun
 Covenant
 JSH
->>>>>>> 9f8cbd8... name addition
+GooLee
+=======
