@@ -23,3 +23,20 @@ JSH
 Semim Park
 
 Jaeseong Park
+
+오리
+
+Peter J
+
+beuoon(Lee Hyeon)
+
+kyujonglee javascript
+
+Jade Kim
+
+sowon-dev
+
+======
+>>>>>>> add name
+>>>>>>> add name
+>>>>>>> add name
