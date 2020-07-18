@@ -36,7 +36,4 @@ Jade Kim
 
 sowon-dev
 
-======
->>>>>>> add name
->>>>>>> add name
->>>>>>> add name
+Jay Lee
