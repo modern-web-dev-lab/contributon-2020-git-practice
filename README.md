@@ -1,4 +1,5 @@
 Juyeong Lee
+<<<<<<< HEAD
 YeEun Lee!
 오리
 Peter J
@@ -8,3 +9,5 @@ kyujonglee javascript
 inseok
 Apollonio Sun
 Covenant
+JSH
+>>>>>>> 9f8cbd8... name addition
