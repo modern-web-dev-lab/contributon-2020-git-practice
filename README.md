@@ -35,8 +35,3 @@ kyujonglee javascript
 Jade Kim
 
 sowon-dev
-
-======
->>>>>>> add name
->>>>>>> add name
->>>>>>> add name
