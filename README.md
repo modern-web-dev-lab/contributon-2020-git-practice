@@ -1,6 +1,8 @@
+<<<<<<< HEAD
 Juyeong Lee
 
 YeEun Lee!
+<<<<<<< HEAD
 
 오리
 
@@ -20,6 +22,14 @@ Covenant
 
 JSH
 
+<<<<<<< HEAD
 Semim Park
 
 Jaeseong Park
+오리
+Peter J
+beuoon(Lee Hyeon)
+kyujonglee javascript
+
+Jade Kim
+
