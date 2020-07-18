@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Juyeong Lee
 <<<<<<< HEAD
 YeEun Lee!
@@ -6,8 +7,11 @@ Peter J
 beuoon(Lee Hyeon)
 kyujonglee javascript
 2doo (LEE DOO SEOP)
+<<<<<<< HEAD
 inseok
 Apollonio Sun
 Covenant
 JSH
->>>>>>> 9f8cbd8... name addition
+luyoes
+>>>>>>> 35c48a9... init commit
+>>>>>>> 8aa9d9a... init commit
