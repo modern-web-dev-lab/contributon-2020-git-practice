@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Juyeong Lee
-
 YeEun Lee!
-<<<<<<< HEAD
 
 오리
 
@@ -22,7 +19,6 @@ Covenant
 
 JSH
 
-<<<<<<< HEAD
 Semim Park
 
 Jaeseong Park
@@ -33,3 +29,4 @@ kyujonglee javascript
 
 Jade Kim
 
+minoring
