@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Juyeong Lee
 <<<<<<< HEAD
+=======
+Jueong Lee
+>>>>>>> KHJcode
 YeEun Lee!
 오리
 Peter J
@@ -9,5 +13,9 @@ kyujonglee javascript
 inseok
 Apollonio Sun
 Covenant
+<<<<<<< HEAD
 JSH
 >>>>>>> 9f8cbd8... name addition
+=======
+KHJcode
+>>>>>>> KHJcode
