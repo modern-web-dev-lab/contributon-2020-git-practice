@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Slack Community Support
-    url: https://modern-web-dev-lab.slack.com/welcome/open
-    about: Slack에 참여하여 소통할 수 있습니다.
+  - name: 카카오 오픈채팅방
+    url: https://open.kakao.com/o/gSBnoLab
+    about: 카카오톡 오픈채팅방은 굵직한 공지사항들을 전달하는 용도로 사용합니다.
   - name: 번역 모범 사례
     url: https://github.com/javascript-tutorial/ko.javascript.info/wiki/%EB%B2%88%EC%97%AD-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80
     about: 번역 모범 사례 Wiki
